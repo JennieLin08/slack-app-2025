@@ -6,7 +6,7 @@ import App from './App'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/slack-app-2025">
+    <BrowserRouter basename="">
       <App />
     </BrowserRouter>
   </StrictMode>,
